@@ -1,0 +1,9 @@
+cffi==1.15.1
+cryptography==41.0.3
+mypy==1.4.1
+mypy-extensions==1.0.0
+pycparser==2.21
+redis==4.6.0
+types-pyOpenSSL==23.2.0.2
+types-redis==4.6.0.3
+typing_extensions==4.7.1
